@@ -1,0 +1,6 @@
+{
+  "news_db": "news.db",
+  "users_db": "news.db",
+  "output_file": "newsletter.txt",
+  "interval_minutes": 10
+}
